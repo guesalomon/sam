@@ -6,7 +6,7 @@ metadata:
   name: pth-facebookresearch-sam-vit-h-gpu
   namespace: cvat
   annotations:
-    name: Segment Anything
+    name: Segment Anything GPU
     version: 2
     type: interactor
     spec:
